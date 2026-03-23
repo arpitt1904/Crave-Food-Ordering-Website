@@ -351,10 +351,6 @@ Built with ❤️ for food lovers who plan ahead │── assets/
 
 
 
-- Vanilla JavaScript application building
-
-- SPA-like behavior without frameworks
-
 - LocalStorage-based persistence
 
 - UI/UX design principles
